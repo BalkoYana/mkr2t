@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\bin\Debug\mkr2t.exe.config
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\bin\Debug\mkr2t.exe
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\bin\Debug\mkr2t.pdb
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\obj\Debug\mkr2t.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\obj\Debug\mkr2t.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\obj\Debug\mkr2t.exe
+C:\Users\ASUS\source\repos\mkr2t\mkr2t\obj\Debug\mkr2t.pdb

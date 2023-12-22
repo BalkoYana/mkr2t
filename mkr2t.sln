@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkr2t", "mkr2t\mkr2t.csproj", "{067D0CE3-4540-4F3A-B9F4-DFA152C5577A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067D0CE3-4540-4F3A-B9F4-DFA152C5577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067D0CE3-4540-4F3A-B9F4-DFA152C5577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067D0CE3-4540-4F3A-B9F4-DFA152C5577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067D0CE3-4540-4F3A-B9F4-DFA152C5577A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB163F2-D568-4F71-839E-B1ACA8FAA7CE}
+	EndGlobalSection
+EndGlobal
